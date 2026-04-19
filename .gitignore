@@ -1,5 +1,4 @@
-# Ignore Python virtual environment directories
-fastapi-env/
+fastapi-env
 
 # Bytecode
 __pycache__/
